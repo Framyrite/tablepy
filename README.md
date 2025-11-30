@@ -18,7 +18,7 @@ TablePy - это простая, но мощная библиотека для �
 📦 Установка
 bash
 # Клонируйте репозиторий
-git clone https://github.com/yourusername/tablepy.git
+git clone https://github.com/Framyrite/tablepy.git
 cd tablepy
 
 # Или просто скачайте файлы:
