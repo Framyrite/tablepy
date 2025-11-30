@@ -19,11 +19,12 @@ TablePy - это простая, но мощная библиотека для �
 bash
 # Клонируйте репозиторий
 git clone https://github.com/Framyrite/tablepy.git
-cd tablepy
 
 # Или просто скачайте файлы:
-# table.py, io_csv.py, io_pickle.py, io_text.py
+# table.py, io_csv.py, io_pickle.py, io_text.py, interactive_demo.py
 ⚡ Быстрый старт
+# Запустите interactive_demo.py
+Или же более замудренный вариант:
 Создание простой таблицы
 python
 from table import Table
